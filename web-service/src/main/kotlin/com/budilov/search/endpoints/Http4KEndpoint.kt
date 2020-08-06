@@ -1,8 +1,8 @@
-package com.crosscaster.search.endpoints
+package com.budilov.search.endpoints
 
-import com.crosscaster.search.AppProperties
-import com.crosscaster.search.cognito.CognitoGateway
-import com.crosscaster.search.endpoints.resolvers.*
+import com.budilov.search.AppProperties
+import com.budilov.search.cognito.CognitoGateway
+import com.budilov.search.endpoints.resolvers.*
 import org.http4k.core.*
 import org.http4k.core.Method.GET
 import org.http4k.core.Status.Companion.FORBIDDEN

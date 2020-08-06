@@ -1,4 +1,4 @@
-package com.crosscaster.search
+package com.budilov.search
 
 import com.amazonaws.regions.Regions
 import com.amazonaws.services.simplesystemsmanagement.AWSSimpleSystemsManagementClientBuilder

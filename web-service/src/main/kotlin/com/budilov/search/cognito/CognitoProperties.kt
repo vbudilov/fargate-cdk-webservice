@@ -1,4 +1,4 @@
-package com.crosscaster.search.cognito
+package com.budilov.search.cognito
 
 import com.amazonaws.services.simplesystemsmanagement.AWSSimpleSystemsManagementClientBuilder
 import com.amazonaws.services.simplesystemsmanagement.model.GetParametersRequest

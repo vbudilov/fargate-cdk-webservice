@@ -1,6 +1,6 @@
-package com.crosscaster.search.endpoints.resolvers
+package com.budilov.search.endpoints.resolvers
 
-import com.crosscaster.search.AppProperties
+import com.budilov.search.AppProperties
 import org.http4k.core.Method
 import org.http4k.core.Response
 import org.http4k.core.Status
