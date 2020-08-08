@@ -9,6 +9,10 @@ Sample Fargate + CDK + Web Service Project
 ### What is it? 
 This project (or set of projects) demonstrates the use of AWS CDK to provision an Amazon Fargate service with all of the peripheral services that are required (Application Load Balancer, ECR, SSM). 
 
+##### Explainer video
+[![](http://img.youtube.com/vi/A_pww87DLSk/0.jpg)](http://www.youtube.com/watch?v=A_pww87DLSk "Infrastructure as Code with CDK and Fargate")
+
+
 ### Deployment
 
 The first step is to customize the code to your requirements...for the most part it involves changing the following lines of code in the CertificateStack class:
